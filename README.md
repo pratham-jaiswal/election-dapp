@@ -19,6 +19,7 @@ or use ```truffle migrate --reset``` if re-compiling the smart contracts after m
 
 ### _Referrence_
 Dapp University - The Ultimate Ethereum Dapp Tutorial
+
 Click [here] to check out the tutorial.
 
 [//]: #
